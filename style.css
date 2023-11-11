@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+.header h1{
+    text-align: center;
+}
+.header{
+    border-bottom: solid 1px black;
+}
+.container__five,.container__six,.container__seven,.container__eight{
+    margin-top: 50px;
+}
+.main{
+    border: solid 5px green;
+}
